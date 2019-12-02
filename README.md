@@ -25,7 +25,7 @@ An Amazon SageMaker notebook instance is a fully managed machine learning comput
         
     c. For **IAM role**, choose **Create a new role**, then choose **Create role**. In 'create IAM Role' pop up window, select 'Any S3 bucket' 
         
-    d. For Git repositories, select 'clone public git repo ***' and provide following repository: ``https://github.com/rthamman/tensor-world-2019.git``
+    d. For Git repositories, select 'clone public git repo ***' and provide following repository: ``https://github.com/rthamman/reinvent-2019``
         
     e. Choose **Create notebook instance**. In a few minutes, Amazon SageMaker will launch a ML compute instance. The notebook instance will have a preconfigured Jupyter notebook server and a set of Anaconda libraries. 
 
