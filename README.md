@@ -21,7 +21,7 @@ An Amazon SageMaker notebook instance is a fully managed machine learning comput
     
     a. For **Notebook instance name**, enter a name for your notebook instance
         
-    b. For **Instance type**, choose `ml.m5.xlarge`
+    b. For **Instance type**, choose `ml.c5.xlarge`
         
     c. For **IAM role**, choose **Create a new role**, then choose **Create role**. In 'create IAM Role' pop up window, select 'Any S3 bucket' 
         
