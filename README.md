@@ -35,7 +35,7 @@ An Amazon SageMaker notebook instance is a fully managed machine learning comput
     
    a. Lab 1 (sentiment-analysis.ipynb) - this notebook demonstrates the following features:
 	- A textCNN Natural Language Processing (NLP) model
-	- Local Mode Training
+	- Script Mode with Git integration:  use your own training scripts version contolled in GitHub, no Docker needed!
 	- Hosted Training Mode
 	- Batch Prediction
 
@@ -50,5 +50,6 @@ An Amazon SageMaker notebook instance is a fully managed machine learning comput
    c. Lab 3 (tf-distributed-training.ipynb) - this notebook demonstrates the following features:
 	- Distributed Training using Parameter Servers
 	- Distributed Training using Horovod
+	- TensorFlow Serving conveniences in SageMaker, including pre/post-processing scripts for inference
    
-10. For each lab, click on the related Ipython notebook (.ipynb) and follow the instructions in Jupyter Notebook. 
+10. For each lab, click on the related Jupyter notebook (.ipynb) and follow the instructions when the notebook opens. 
