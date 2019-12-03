@@ -35,7 +35,7 @@ An Amazon SageMaker notebook instance is a fully managed machine learning comput
     
    a. Lab 1 (sentiment-analysis.ipynb) - this notebook demonstrates the following features:
 	- A textCNN Natural Language Processing (NLP) model
-	- Script Mode with Git integration:  use your own training scripts version contolled in GitHub, no Docker needed!
+	- Script Mode:  use your own training scripts, no Docker required!
 	- Hosted Training Mode
 	- Batch Prediction
 
